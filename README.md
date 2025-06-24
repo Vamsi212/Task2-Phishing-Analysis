@@ -1,4 +1,4 @@
-# 🛡️ Phishing Email Analysis - Task 2 Report
+#  Phishing Email Analysis - Task 2 Report
 
 ## 🎯 Objective
 
