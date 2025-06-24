@@ -1,0 +1,14 @@
+From: Netflix Support <support@netflxbilling.com>  
+Subject: Your Account Has Been Suspended  
+
+Dear Customer,  
+
+We were unable to validate your billing information for your Netflix account.  
+To avoid interruption of your subscription, please update your payment details immediately.  
+
+Click here to update: http://netflix-billing-update.com  
+
+Failure to do so within 24 hours will result in permanent suspension of your account.  
+
+Thank you,  
+Netflix Billing Team
