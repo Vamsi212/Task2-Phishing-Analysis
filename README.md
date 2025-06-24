@@ -41,7 +41,8 @@ Netflix Billing Team
 
 ## 🛠️ Tools Used
 
-- Header inspection (simulated – Gmail "Show Original")
+- Header inspection : MxTooLBox Header Analyzer
+![image_alt](https://github.com/Vamsi212/Task2-Phishing-Analysis/blob/56180d647420f814807a9d9f3523eae70ba77414/screenshots/Screenshot%20(377).png)
 - Visual analysis
 - Hover-over link check
 - Domain lookup
