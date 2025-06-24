@@ -51,6 +51,7 @@ Netflix Billing Team
 - Visual analysis
 - Hover-over link check
 - Domain lookup
+  - https://whois.domaintools.com/   
 
 ---
 
